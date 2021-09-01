@@ -28,7 +28,7 @@ Install the required pacakges using the command:
 pip install -r requirements.txt
 ```
 
-# Train
+# Training
 
 The best combination of embeddings were based on our initial experiments which are documented [here](https://docs.google.com/spreadsheets/d/1NiZWRSXM8JJYgB9sA0QwABSHiHKYocPqh4ivw8p_v0w/edit?usp=sharing).
 
