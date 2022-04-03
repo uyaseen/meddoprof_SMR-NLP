@@ -8,8 +8,8 @@ Created on Thu Apr 29 15:32:08 2021
 import pandas as pd
 import os
 
-from eval.ann_parsing import main as ann_main
-from eval.compute_metrics import main as comp_main
+from eval_utils.ann_parsing import main as ann_main
+from eval_utils.compute_metrics import main as comp_main
 
 
 def main(
