@@ -2,4 +2,3 @@ spacy==3.0.6
 https://github.com/explosion/spacy-models/releases/download/es_core_news_sm-3.0.0/es_core_news_sm-3.0.0.tar.gz
 pandas==1.2.4
 torch==1.4.0
-flair==0.7
