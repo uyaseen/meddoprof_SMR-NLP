@@ -11,7 +11,7 @@ def parse_data():
     for task in tasks:
         print(f"*task: {task}")
         # parse all task files to a single file in BIO format
-        input_dir = f"data/meddoprof-training-set 2/{task}/"
+        input_dir = f"data/meddoprof-training-set2/{task}/"
         output_dir = f"data/{task}/"
         sentences_path = join_path(output_dir, "sentences.txt")
         create_directory(output_dir)
